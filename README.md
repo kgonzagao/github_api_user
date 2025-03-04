@@ -11,7 +11,7 @@ La aplicación permite a los usuarios consultar los eventos de actividad de un u
 - **Lenguaje de programación:** Java
 - **Librería para JSON:** org.json
 - **API:** GitHub API
-- Acceso a la terminal o consola de comandos
+
 
 
 ## Licencia
